@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on new WebGL Game.<br>👯 I’m looking to collaborate on Unity Game Development projects.<br>🤝 I’m looking for help with Game Art and Design.<br>🌱 I’m currently learning Unity and Game Development.<br>💬 Ask me about Game Development , Figma.<br>
+🔭 I’m currently working on new Endless Runner.<br>👯 I’m looking to collaborate on Unity Game Development projects.<br>🤝 I’m looking for help with Game Art and Design.<br>🌱 I’m currently learning Unity and Game Development.<br>💬 Ask me about Game Development , Figma.<br>
 
 
 ## 🌐 Socials:
